@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "amocrm-js": "^3.3.3",
+    "node.js": "^0.0.1-security"
+  },
+  "name": "testjob",
+  "version": "1.0.0",
+  "description": "test job",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitryKolpkaov/TestJob.git"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "job"
+  ],
+  "author": "Dmitriy Kolpakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitryKolpkaov/TestJob/issues"
+  },
+  "homepage": "https://github.com/DmitryKolpkaov/TestJob#readme"
+}
